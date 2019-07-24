@@ -1,7 +1,6 @@
 # python practice
 
-Part 1 - Supervised machine learning with linear regression
-AI agent will find values for you.
+Part 1 - Supervised machine learning with linear regression. AI agent will find values for you.
 
 - ml_homework 1 - 5 : Linear regression with single variable 
 - ml_homework 6 : Linear regression with multiple variables
