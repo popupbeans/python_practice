@@ -1,6 +1,10 @@
 # python practice
 
-Part 1 - Supervised machine learning with linear regression. AI agent will find values for you.
+Part 1 - Some interesting problems to solve with python.
+
+- homework 1 - 4 : Just enjoy them
+
+Part 2 - Supervised machine learning with linear regression. AI agent will find values for you.
 
 - ml_homework 1 - 5 : Linear regression with single variable 
 - ml_homework 6 : Linear regression with multiple variables
@@ -16,3 +20,13 @@ How to download jupyter notebook .ipynb file from Github
 5. Open file and see the source code.
 6. Enjoy the homeworks.
 
+# Copyright
+
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * popupbeans wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.
+ * ----------------------------------------------------------------------------
+ */
