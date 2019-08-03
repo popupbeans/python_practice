@@ -9,6 +9,10 @@ Part 2 - Supervised machine learning with linear regression. AI agent will find 
 - ml_homework 1 - 5 : Linear regression with single variable 
 - ml_homework 6 : Linear regression with multiple variables
 
+Part 3 - Supervised machine learning with logistic regression. AI agent will distinguish different groups. 
+
+- ml_homework 7 : Logistic regression
+
 
 # How to enjoy homework
 How to download jupyter notebook .ipynb file from Github
