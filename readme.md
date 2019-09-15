@@ -12,7 +12,8 @@ Part 2 - Supervised machine learning with linear regression. AI agent will find 
 Part 3 - Supervised machine learning with logistic regression. AI agent will distinguish different groups. 
 
 - ml_homework 7 - 9 : Logistic regression
-- ml_homework 10 : Logistic regression with Regularization
+- ml_homework 10 : Logistic regression practice - You are product quality manager!
+- ml_homework 11 : Logistic regression with Regularization
 
 
 # How to enjoy homework
